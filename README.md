@@ -96,7 +96,7 @@ Para acrescentar uma imagem ao seu arquivo markdown basta acrescentar o caracter
 
 ![nome da imagem](Seu_caminho/imagens/img.png)
 
-## Cógdigo
+## Código
 
 Para denotar uma palavra como código devemos colocala entre crases '``'
 `Exemplo`
